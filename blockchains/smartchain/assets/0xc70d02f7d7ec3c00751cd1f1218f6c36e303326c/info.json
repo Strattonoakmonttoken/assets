@@ -1,0 +1,11 @@
+{
+    "name": "Stratton Oakmont Finance",
+    "type": "BEP20",
+    "symbol": "SOF",
+    "decimals": 9,
+    "website": "https://www.strattonoakmont.org",
+    "description": "Stratton Oakmont Finance Token is BEP20 Token created on the Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0xc70d02f7d7ec3c00751cd1f1218f6c36e303326c",
+    "status": "active",
+    "id": "0xc70d02f7d7ec3c00751cd1f1218f6c36e303326c"
+}
